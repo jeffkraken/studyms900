@@ -1,0 +1,101 @@
+MS-900 Study Guide: Microsoft 365 Fundamentals
+
+This study guide is designed to help you prepare for the MS-900: Microsoft 365 Fundamentals exam.
+This exam measures your foundational knowledge of Microsoft 365 services and concepts, including cloud concepts, core Microsoft 365 services and pricing, security, compliance, and more.
+
+Using this Study Guide: This is not intended to be a complete/exhaustive resource. These are high level points that can be used as guidance for studying.
+For each point, my recommendation would be to spend 3-5 minutes in Microsoft Learn reading about the specifics of that point.
+
+Concepts Covered:
+Cloud Concepts (Cloud Computing Models, Cloud Benefits and Considerations, Types of Cloud Services)
+Core Microsoft 365 Services and Concepts (Microsoft 365 Overview, Core Services, Microsoft 365 Apps)
+Security, Compliance, Privacy, and Trust (Security Features, Identity and Access Management, Compliance Features)
+Microsoft 365 Pricing, Licensing, and Support (Pricing Models, Licensing Options, Service Level Agreements, Support)
+Key Definitions
+Exam Tips
+
+1. Cloud Concepts
+
+Cloud Computing Models
+Public Cloud: Cloud resources are owned and operated by a third-party cloud service provider like Microsoft Azure.
+Private Cloud: Cloud infrastructure operated solely for one organization. May be managed internally or by a third party.
+Hybrid Cloud: A combination of public and private clouds, enabling data and applications to be shared between them.
+
+Cloud Benefits and Considerations
+Scalability: Easily scale up or down based on demand.
+Cost-effectiveness: Pay only for what you use (pay-as-you-go).
+Security: Built-in security measures and compliance standards.
+Elasticity: Rapid expansion and contraction of resources to meet demand.
+Business Agility: Rapidly deploy applications and services.
+
+Types of Cloud Services
+IaaS (Infrastructure as a Service): Provides virtualized computing resources over the internet (e.g., Azure Virtual Machines).
+PaaS (Platform as a Service): Provides a platform allowing customers to develop, run, and manage applications (e.g., Azure App Service).
+SaaS (Software as a Service): Software applications provided over the internet (e.g., Microsoft 365 apps like Word, Excel, etc.).
+
+2. Core Microsoft 365 Services and Concepts
+
+Microsoft 365 Overview
+Microsoft 365 is a subscription service that includes Office applications, intelligent cloud services, and security features to help organizations be more productive and collaborative.
+
+Core Services
+Microsoft Teams: A collaboration platform that combines workplace chat, video meetings, file storage, and application integration.
+Exchange Online: A cloud-based email service that allows users to access their email, calendars, and contacts across devices.
+SharePoint Online: A web-based platform used to store, organize, share, and access information from any device.
+OneDrive for Business: A file-hosting service that allows users to store files and share them with others securely.
+
+Microsoft 365 Apps
+Office Suite (Word, Excel, PowerPoint, Outlook): Core productivity apps available as part of Microsoft 365.
+Microsoft 365 Apps for Enterprise: A higher-tier offering that includes the latest Office applications plus additional services like OneDrive and Teams.
+
+3. Security, Compliance, Privacy, and Trust
+
+Security Features
+Multi-factor Authentication (MFA): Adds an additional layer of protection by requiring more than just a password to access an account.
+Conditional Access: Controls access based on specific conditions (e.g., device location, user role).
+Advanced Threat Protection (ATP): Provides protection from malware, phishing, and other advanced threats.
+Microsoft Defender for Office 365: Protects against cyber threats like phishing and business email compromise.
+
+Identity and Access Management
+Azure Active Directory (Azure AD): Microsoft's cloud-based identity and access management service. It helps users access apps and services securely.
+Single Sign-On (SSO): Users log in once to access multiple applications without needing to authenticate each time.
+Role-Based Access Control (RBAC): Allows administrators to manage permissions based on the roles of users within the organization.
+
+Compliance Features
+Compliance Manager: A tool for managing regulatory compliance.
+eDiscovery: Allows organizations to search and extract data that may be relevant to legal or compliance investigations.
+Information Protection: Helps ensure sensitive data is classified, labeled, and protected according to its importance.
+Data Loss Prevention (DLP): Prevents accidental or malicious sharing of sensitive information.
+
+4. Microsoft 365 Pricing, Licensing, and Support
+
+Pricing Models
+Subscription-Based Pricing: Microsoft 365 services are typically sold on a subscription basis (monthly or yearly).
+Consumption-Based Pricing: Services such as Azure are billed based on usage.
+
+Licensing Options
+Microsoft 365 Business: Suitable for small and medium businesses (up to 300 users). Includes productivity apps and basic security features.
+Microsoft 365 Enterprise: Designed for large organizations, offering enhanced security, compliance, and management capabilities.
+Microsoft 365 Education: Tailored for educational institutions, offering tools and services to support teaching and learning.
+
+Service Level Agreements and Support
+Service Level Agreements (SLAs): Microsoft guarantees a certain level of uptime for its services, usually 99.9% or higher.
+Support Options: Microsoft provides different support tiers depending on the subscription level, ranging from self-help resources to 24/7 phone support.
+
+5. Key Definitions
+Cloud Computing: The delivery of computing services—servers, storage, databases, networking, software—over the internet (“the cloud”).
+SaaS (Software as a Service): A method for delivering software over the internet, typically on a subscription basis.
+IaaS (Infrastructure as a Service): Virtualized computing resources over the internet.
+PaaS (Platform as a Service): Cloud-based platform services that allow developers to build and manage applications.
+Azure Active Directory (Azure AD): Microsoft’s cloud-based identity and access management system.
+Multi-factor Authentication (MFA): An authentication method that requires the user to provide two or more verification factors to gain access.
+Conditional Access: A tool to control user access to applications and services based on specific conditions.
+Data Loss Prevention (DLP): A feature that helps prevent sensitive information from being shared outside the organization.
+eDiscovery: The process of searching for and retrieving electronically stored information (ESI) for legal purposes.
+
+6. Exam Tips:
+Understand Key Cloud Concepts: Review cloud computing models, benefits, and Microsoft 365 service types (IaaS, PaaS, SaaS).
+Focus on Microsoft 365 Core Services: Be familiar with the main services such as Exchange, SharePoint, OneDrive, and Teams.
+Security & Compliance: Pay close attention to security services, compliance tools, and identity management within Microsoft 365.
+Licensing & Pricing: Know the differences between Business and Enterprise offerings, and be aware of pricing models.
+Hands-on Practice: Try using some of the services (e.g., set up a OneDrive account, experiment with SharePoint) to reinforce your understanding.
